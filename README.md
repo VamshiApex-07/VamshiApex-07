@@ -22,10 +22,8 @@ Full Stack Developer • AI Enthusiast • DSA Practitioner
 
 - 🎓 B.Tech in **Computer Science & Engineering** at **National Institute of Technology Durgapur**
 - 💻 Passionate about **Full Stack Development, Artificial Intelligence & Scalable Systems**
-- 🧠 Strong foundation in **Data Structures & Algorithms, OOPs, DBMS & Operating Systems**
 - 🤖 Building AI-powered applications with modern technologies
 - 📚 Currently exploring **AI Agents, Cloud Computing & System Design**
-- 🎯 Preparing for top Software Engineering internships
 
 ---
 
@@ -70,55 +68,7 @@ Full Stack Developer • AI Enthusiast • DSA Practitioner
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
 </p>
 
----
 
-# 🚀 Featured Projects
-
-## 🤖 Meet.AI – AI Meeting Assistant
-
-**Tech Stack:** Next.js • TypeScript • FastAPI • PostgreSQL • tRPC • Stream SDK • Groq • Gemini • Inngest
-
-- AI Voice Agents
-- Real-time Meeting Transcription
-- Automated AI Meeting Summaries
-- Event-driven Architecture
-- AI-powered Post Meeting Chat
-
----
-
-## 💬 Streamify – Real-Time Communication Platform
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Stream Chat • Stream Video
-
-- Real-time Messaging
-- HD Video Calling
-- Online Presence Tracking
-- Read Receipts
-- WebSocket Communication
-
----
-
-## 🏦 Digital Banking Platform
-
-**Tech Stack:** React.js • Node.js • Express.js • MongoDB
-
-- JWT Authentication
-- Role-Based Access Control
-- Secure Fund Transfers
-- Transaction History
-- RESTful APIs
-
----
-
-# 🌱 Currently Working On
-
-- 🤖 AI Meeting Assistant
-- ⚡ AI Agents
-- ☁️ Cloud Technologies
-- 📚 Advanced DSA
-- 🏗️ System Design
-
----
 
 # 📊 GitHub Stats
 
@@ -134,49 +84,18 @@ Full Stack Developer • AI Enthusiast • DSA Practitioner
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VamshiApex-07&theme=tokyonight"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=VamshiApex-07&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
 [![Vamsidhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VamshiApex-07&theme=tokyo-night)](https://github.com/VamshiApex-07)
 
----
 
-# 🏅 Achievements
-
-🏆 Secured **AIR 8802** in **JEE Main 2024**
-
-🥉 Secured **3rd Position** in **Techmela Event** conducted by **AAROHAN**
-
-🎓 Maintaining **9.07 CGPA** at **NIT Durgapur**
-
-🤝 Senior Member at **Center for Cognitive Activities (CCA-RND)**
-
----
-
-# 📜 Certifications
-
-> Coming Soon 🚀
-
----
 
 # 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/VamshiApex-07">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/vamshireddy007">
+<a href="https://www.linkedin.com/in/i-vamsidhar-reddy">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -186,8 +105,3 @@ Full Stack Developer • AI Enthusiast • DSA Practitioner
 
 </p>
 
----
-
-<p align="center">
-⭐ <b>Keep Learning • Keep Building • Keep Growing</b> ⭐
-</p>
