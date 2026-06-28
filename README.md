@@ -89,7 +89,9 @@ Full Stack Developer • AI Enthusiast • DSA Practitioner
 
 [![Vamsidhar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VamshiApex-07&theme=tokyo-night)](https://github.com/VamshiApex-07)
 
+## 🐍 Contribution History
 
+![GitHub Animation](https://raw.githubusercontent.com/VamshiApex-07/VamshiApex-07/output/github-contribution-grid-snake-dark.svg)
 
 # 🤝 Connect With Me
 
