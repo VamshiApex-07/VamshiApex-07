@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vamsidhar Reddy</h1>
 
 <h3 align="center">
-Full Stack Developer • AI Enthusiast • DSA Practitioner
+Full Stack Developer • AI Enthusiast
 </h3>
 
 <p align="center">
